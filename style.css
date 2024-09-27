@@ -207,3 +207,26 @@
      text-align: right;
      font-weight: 700;
  }
+
+ /* Signup section*/
+ .signup {
+     color: #E5E7EB;
+     background: #FF9C0D;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 60px 0px;
+ }
+
+ .signup_box {
+     display: flex;
+     border-radius: 5px;
+     background: rgb(84, 64, 27);
+     padding: 52px;
+     gap: 200px;
+ }
+
+ .signup_button {
+     border: 1px solid #E5E7EB;
+     box-shadow: none;
+ }
