@@ -183,3 +183,27 @@
      box-shadow: 2px 2px 6px black;
      margin-bottom: 12px;
  }
+
+
+ /* Quote Section*/
+ /* Wildlife Color Palette : #773600 #D06200 #EA7109 #FF9C0D #FFD774 */
+
+ .quote {
+     display: flex;
+     background: #FFD774;
+     color: #773600;
+     justify-content: center;
+     padding: 100px 0px;
+ }
+
+ .quote q {
+     font-size: 36px;
+     font-style: italic;
+     font-weight: 200;
+ }
+
+ .author {
+     margin-top: 12px;
+     text-align: right;
+     font-weight: 700;
+ }
