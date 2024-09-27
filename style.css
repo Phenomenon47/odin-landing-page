@@ -230,3 +230,12 @@
      border: 1px solid #E5E7EB;
      box-shadow: none;
  }
+
+ /* Footer Section*/
+
+ .footer {
+     color: #E5E7EB;
+     background: #476718;
+     padding: 16px 0px;
+     text-align: center;
+ }
